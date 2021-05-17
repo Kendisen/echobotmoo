@@ -1,3 +1,4 @@
+require('newrelic');
 {
   "compilerOptions": {
     "target": "es6",
