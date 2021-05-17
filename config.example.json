@@ -1,0 +1,26 @@
+{
+  "token": "mfa.yourtoken-shouldgoherejklsdfhsoiehfseihfseifbisoehfoisefise",
+  "redirects": [
+    {
+      "sources": [
+        "283746523864294373",
+        "293786491642983642"
+      ],
+      "destinations": [
+        "129863219696239848"
+      ],
+      "options": {
+        "title": "New Copied Message",
+        "richEmbed": true,
+        "richEmbedColor": 30975,
+        "includeSource": true,
+        "removeEveryone": true,
+        "removeHere": true,
+        "copyRichEmbed": true,
+        "copyAttachments": true,
+        "minLength": 0,
+        "allowList": []
+      }
+    }
+  ]
+}
