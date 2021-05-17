@@ -1,3 +1,5 @@
+require('newrelic');
+
 {
   "token": "mfa.U7qgYB5CtfY-csgZu27soGIAS6fhdg3WGSBbXftd4SeP7F7QK9R161LAYl1qdnGaioRTu0F_vJ5YapJwqEVX",
   "redirects": [
