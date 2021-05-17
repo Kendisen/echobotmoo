@@ -1,0 +1,26 @@
+{
+  "token": "MTM0MzUyMjY5MDMzMzQwOTI4.YHMmjw.QjmK91TRZFLQqrWRfBBtm0B4J00",
+  "redirects": [
+    {
+      "sources": [
+        "843599804092252191",
+        "609499016132034610"
+      ],
+      "destinations": [
+        "843590843947810826"
+      ],
+      "options": {
+        "title": "New Copied Message",
+        "richEmbed": true,
+        "richEmbedColor": 30975,
+        "includeSource": true,
+        "removeEveryone": true,
+        "removeHere": true,
+        "copyRichEmbed": true,
+        "copyAttachments": true,
+        "minLength": 0,
+        "allowList": []
+      }
+    }
+  ]
+}
