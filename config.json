@@ -3,18 +3,17 @@
   "redirects": [
     {
       "sources": [
-        "843599804092252191",
         "609499016132034610"
       ],
       "destinations": [
         "843590843947810826"
       ],
       "options": {
-        "title": "New Copied Message",
+        "title": "New Message from Valhalla-Age",
         "richEmbed": true,
         "richEmbedColor": 30975,
-        "includeSource": true,
-        "removeEveryone": true,
+        "includeSource": false,
+        "removeEveryone": false,
         "removeHere": true,
         "copyRichEmbed": true,
         "copyAttachments": true,
