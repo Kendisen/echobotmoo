@@ -17,7 +17,6 @@
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
 
-require('newrelic');
 import * as fs from 'fs';
 import * as Discord from 'discord.js';
 import * as winston from 'winston';
